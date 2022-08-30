@@ -1,0 +1,19 @@
+{
+  "name": "funtiontest",
+  "version": "1.0.0",
+  "description": "1. 프로토타입",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinsk23/funtionTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinsk23/funtionTest/issues"
+  },
+  "homepage": "https://github.com/sinsk23/funtionTest#readme"
+}
